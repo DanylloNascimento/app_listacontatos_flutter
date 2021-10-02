@@ -1,0 +1,4 @@
+com.example.app_lista_telefonica
+drawable launch_background
+mipmap ic_launcher
+style LaunchTheme

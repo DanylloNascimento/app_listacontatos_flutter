@@ -1,0 +1,4 @@
+#Sun Oct 18 23:15:11 GFT 2020
+base.0=D\:\\Projetos flutter\\app_lista_telefonica\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
